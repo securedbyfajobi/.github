@@ -1,7 +1,7 @@
 # 🛡️ SecuredByFajobi Organization
 
 [![Website](https://img.shields.io/badge/Website-securedbyfajobi.com-blue?style=for-the-badge&logo=globe)](https://securedbyfajobi.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Fajobi13-black?style=for-the-badge&logo=github)](https://github.com/Fajobi13)
+[![GitHub](https://img.shields.io/badge/GitHub-securedbyfajobi-black?style=for-the-badge&logo=github)](https://github.com/securedbyfajobi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fajobi10-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fajobi10)
 
 ## 🎯 Mission Statement
@@ -24,18 +24,18 @@
 ## 🏗️ Featured Repositories
 
 ### 🛠️ Core Security Tools
-- **[devsecops-toolkit](https://github.com/Fajobi13/devsecops-toolkit)** - Production-ready security automation scripts
-- **[secure-pipeline-templates](https://github.com/Fajobi13/secure-pipeline-templates)** - CI/CD security integration templates
-- **[secure-iac-templates](https://github.com/Fajobi13/secure-iac-templates)** - Hardened Terraform and CloudFormation templates
+- **[devsecops-toolkit](https://github.com/securedbyfajobi/devsecops-toolkit)** - Production-ready security automation scripts
+- **[secure-pipeline-templates](https://github.com/securedbyfajobi/secure-pipeline-templates)** - CI/CD security integration templates
+- **[secure-iac-templates](https://github.com/securedbyfajobi/secure-iac-templates)** - Hardened Terraform and CloudFormation templates
 
 ### 📋 Compliance & Monitoring
-- **[compliance-automation](https://github.com/Fajobi13/compliance-automation)** - Automated compliance validation tools
-- **[security-monitoring](https://github.com/Fajobi13/security-monitoring)** - Real-time security monitoring solutions
-- **[k8s-security-hardening](https://github.com/Fajobi13/k8s-security-hardening)** - Kubernetes security hardening guides
+- **[compliance-automation](https://github.com/securedbyfajobi/compliance-automation)** - Automated compliance validation tools
+- **[security-monitoring](https://github.com/securedbyfajobi/security-monitoring)** - Real-time security monitoring solutions
+- **[k8s-security-hardening](https://github.com/securedbyfajobi/k8s-security-hardening)** - Kubernetes security hardening guides
 
 ### 🌐 Professional Presence
-- **[portfolio](https://github.com/Fajobi13/portfolio)** - Professional portfolio website
-- **[aws-security-automation](https://github.com/Fajobi13/aws-security-automation)** - AWS security service automation
+- **[portfolio](https://github.com/securedbyfajobi/portfolio)** - Professional portfolio website
+- **[aws-security-automation](https://github.com/securedbyfajobi/aws-security-automation)** - AWS security service automation
 
 ---
 
