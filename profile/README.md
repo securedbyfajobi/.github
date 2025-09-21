@@ -34,7 +34,7 @@
 - **[k8s-security-hardening](https://github.com/securedbyfajobi/k8s-security-hardening)** - Kubernetes security hardening guides
 
 ### 🌐 Professional Presence
-- **[portfolio](https://github.com/securedbyfajobi/portfolio)** - Professional portfolio website
+- **[SecuredByFajobi Website](https://securedbyfajobi.com)** - Professional portfolio showcasing DevSecOps expertise and services
 - **[aws-security-automation](https://github.com/securedbyfajobi/aws-security-automation)** - AWS security service automation
 
 ---
